@@ -1,10 +1,10 @@
 * Fall 2022 - Lab 10
 
-* Last name:
+* Last name: Wong
 
-* First name:
+* First name: Justin
 
-* GitHub username:
+* GitHub username: justinw21
 
 * Notes:
 
