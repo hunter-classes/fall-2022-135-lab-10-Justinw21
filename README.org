@@ -16,7 +16,7 @@
 - The main lab description can be found here:
   https://maryash.github.io/135/labs/lab_10.html 
 
-* specific instructions and requirementsfor lab 10
+* specific instructions and requirements for lab 10
 
 This and future labs will start with a mostly empty repository. 
 
